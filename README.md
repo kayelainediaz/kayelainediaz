@@ -1,6 +1,6 @@
 # Hi, I'm Kay Diaz 👋
 
-<img src="yourphoto.jpg" width="200">
+<img src="ID pic.jpg" width="200">
 
 ## About Me
 I am Kay Diaz, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
