@@ -11,9 +11,9 @@ New Era University
 2021 - Present
 
 ## Certifications
-- [NoSQL and DBaaS 101](PASTE_LINK_HERE)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](PASTE_LINK_HERE)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](PASTE_LINK_HERE)
+- [NoSQL and DBaaS 101]
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate]
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate]
 
 ## Skill Sets
 **Programming:** Java, JavaScript  
@@ -21,5 +21,5 @@ New Era University
 **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Contact Me
-**LinkedIn:** [My LinkedIn](PASTE_LINKEDIN_HERE)  
-**Email:** your@email.com
+**LinkedIn:** https://www.linkedin.com/in/kay-elaine-diaz-416749221/ 
+**Email:** dkayelaine@gmail.com
